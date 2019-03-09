@@ -6,16 +6,16 @@ Credit to [Dan Abramov](https://gist.github.com/gaearon) for his tic tac toe tut
 
 **Start Screen**
 
-![start screen](/assets/gameStart.png)
+![start screen](https://github.com/Shwheelz/reac-tac-toe/blob/master/assets/gameStart.PNG)
 
 
 **Game Progression**
 
-![game in progress](/assets/gameInProgress.png)
+![game in progress](https://github.com/Shwheelz/reac-tac-toe/blob/master/assets/gameInProgress.PNG)
 
 **Game End**
 
-![game end](/assets/gameEnd.png)
+![game end](https://github.com/Shwheelz/reac-tac-toe/blob/master/assets/gameEnd.PNG)
 
 **Features**
 * Working Tic Tac Toe Game
